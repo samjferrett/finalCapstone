@@ -9,7 +9,7 @@ inventory.txt can be read in using option 1 of the menu (see inventory.py for de
 inventory.txt has entries where each line represents one item with columns being 
 country, product code, product name, cost, quantity. Each column is seperated using commas.
 
-## inventory.py
+## inventory.py usage
 inventory.py can be ran using 
 ```
 python3 inventory.py
@@ -25,5 +25,8 @@ The user is presented with a menu with the following options:
 7. Put highest quantity shoe on sale
 8. Quit
 
+![alt text](https://github.com/samjferrett/finalCapstone/blob/main/stock_tracker/stock_tracker_eg.png "stock tracker menu")
+
 ## requirements
 inventory.py requires python3 and tabulate
+
